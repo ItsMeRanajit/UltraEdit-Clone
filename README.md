@@ -1,1 +1,2 @@
-It is a clone of Ultra Edit website using CSS grids 
+It is a clone of Ultra Edit website. This small project helped to understand and clearing the concepts of grids in css
+
